@@ -1,5 +1,5 @@
 ## Hi there 👋
-### This is custom AOPSA Build for picasso by @EndCredits
+### This is custom AOPSA Build for picasso
 ---
 ### Current Status: BUILD PASSING ( boot is not tested yet )
 
